@@ -1,5 +1,4 @@
-#MGKAN: Predicting Asymmetric Drug-Drug Interactions via a Multimodal
-Graph Kolmogorov-Arnold Network
+# MGKAN: Predicting Asymmetric Drug-Drug Interactions via a Multimodal Graph Kolmogorov-Arnold Network
 
 Files:
 
