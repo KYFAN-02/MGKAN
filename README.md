@@ -5,3 +5,5 @@ Files:
 train.py -- implementation of MGKAN framework
 
 newdataset -- MGKAN model-related dataset files
+
+Supplementary Material for MGKAN --  Full supplementary material for our paper
